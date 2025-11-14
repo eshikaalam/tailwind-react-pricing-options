@@ -8,7 +8,7 @@ function App() {
     <>
       <header>
       <DaisyNav></DaisyNav>
-      <NavBar></NavBar>
+       <NavBar></NavBar>
       </header>
       <main>
 

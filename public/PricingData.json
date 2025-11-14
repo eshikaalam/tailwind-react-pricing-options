@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "$29/mo",
+    "features": [
+      "Full gym access",
+      "Locker room access",
+      "Open 6AM–10PM",
+      "1 complimentary fitness assessment",
+      "Basic cardio zone access"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": "$49/mo",
+    "features": [
+      "Everything in Basic",
+      "Unlimited group workout classes",
+      "Sauna & steam room access",
+      "Free monthly body composition check",
+      "Stretching and yoga zone access"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": "$79/mo",
+    "features": [
+      "Everything in Standard",
+      "Unlimited personal training sessions",
+      "Diet & nutrition coaching",
+      "24/7 gym access",
+      "Access to all premium equipment zones"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Student Plan",
+    "price": "$19/mo",
+    "features": [
+      "Full gym access",
+      "Valid student ID required",
+      "Access during off-peak hours",
+      "Free study lounge area",
+      "Discount on group classes"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Couple Plan",
+    "price": "$59/mo",
+    "features": [
+      "Gym access for 2 adults",
+      "Shared locker option",
+      "Free couple training sessions",
+      "Discount on spa services",
+      "Weekend bootcamp access"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "VIP Plan",
+    "price": "$99/mo",
+    "features": [
+      "Unlimited premium coaching",
+      "Private training studio",
+      "Spa & massage therapy access",
+      "Priority equipment reservation",
+      "VIP lounge access"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Weekend Plan",
+    "price": "$15/mo",
+    "features": [
+      "Access only on Saturday & Sunday",
+      "Locker access included",
+      "Group classes available",
+      "Free weekend bootcamp",
+      "Beginner-friendly environment"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Corporate Plan",
+    "price": "$199/mo",
+    "features": [
+      "Access for 5 employees",
+      "Corporate wellness workshops",
+      "Monthly performance tracking",
+      "Priority support line",
+      "Discount on additional memberships"
+    ]
+  }
+]
