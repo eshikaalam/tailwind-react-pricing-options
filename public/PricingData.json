@@ -27,6 +27,7 @@
     "id": 3,
     "name": "Premium",
     "price": "$79/mo",
+    "popular": true,
     "features": [
       "Everything in Standard",
       "Unlimited personal training sessions",
